@@ -14,8 +14,8 @@ public class TutarVade implements Task {
     public static String vade;
 
     public TutarVade (String tutar,String vade){
-        TutarVade.vade =vade;
-        TutarVade.tutar =tutar;
+        this.vade =vade;
+        this.tutar =tutar;
     }
 
     @Override
