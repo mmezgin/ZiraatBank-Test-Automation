@@ -16,7 +16,7 @@
         <serenity.cucumber.version>2.2.5</serenity.cucumber.version>
         <fasterxml.jackson.core.version>2.11.0</fasterxml.jackson.core.version>
         <webdriver.driver>chrome</webdriver.driver>
-        <webdriver.manager.version>4.0.0</webdriver.manager.version>
+        <webdriver.manager.version>6.1.0</webdriver.manager.version>
     </properties>
 
     <dependencies>
